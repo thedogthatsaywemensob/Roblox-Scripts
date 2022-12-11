@@ -1,7 +1,7 @@
 --Chat all script (Shows in main chat) made by HollowNoob1558
 --[ Configuration ]--
 
-local message = "Your message you want to spam here."
+local message = "Baller is better than slenders"
 
 --[ Do not edit under here pls ]--
 
